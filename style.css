@@ -112,8 +112,7 @@
     left: 340px;
   }
 
-  p {
-    position: absolute;
+  .count {
     top: 300px;
     left: 180px;
   }
